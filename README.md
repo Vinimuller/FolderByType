@@ -1,5 +1,3 @@
-# FolderByType
+# Sort By File Type
 Separate archives in folders by their types.
-Paste this bat file in the folder that contains the archives which you
-want to separate and run it. The bat file will be deleted after the 
-sorting ends.
+Run this bat file and insert the directory path where the files to be separated are.
